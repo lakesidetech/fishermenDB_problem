@@ -8,7 +8,7 @@ Create a fisherman-boat management using MySQL and Python
 # prepare and identify the data that you want to import
 * Boat CSV prepared in excel 
 https://github.com/lakesidetech/fishermenDB_problem/blob/main/boat_csv.JPG
-Boat Owner csv
+* Boat Owner csv
 
 * Fishermen csv
 
