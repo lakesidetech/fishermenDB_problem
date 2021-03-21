@@ -24,6 +24,10 @@ https://github.com/lakesidetech/fishermenDB_problem/blob/main/station.JPG
 # create table stuctures as follows
 ![image](https://user-images.githubusercontent.com/17750481/111904350-94502400-8a57-11eb-9c23-160647db8e3c.png)
 
+![image](https://user-images.githubusercontent.com/17750481/111904409-f14bda00-8a57-11eb-8449-a4fdc873039a.png)
+![image](https://user-images.githubusercontent.com/17750481/111904419-ff015f80-8a57-11eb-8a53-9446828d296b.png)
+![image](https://user-images.githubusercontent.com/17750481/111904431-13ddf300-8a58-11eb-9c22-409dd2ddd647.png)
+
 
 # Output
 # Workbench 8.0 CE
