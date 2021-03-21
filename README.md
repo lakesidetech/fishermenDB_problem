@@ -22,18 +22,7 @@ https://github.com/lakesidetech/fishermenDB_problem/blob/main/station.JPG
 * import csv
 
 # create table stuctures as follows
-mycursor=mydb.cursor()
-#instantiate cursor
-mySql_Create_station_tbl = """CREATE TABLE IF NOT EXISTS Station ( 
-                             Station_id int(11) NOT NULL,
-                             Station_Name varchar(250) NOT NULL,
-                             Station_address varchar(100),
-                             PRIMARY KEY (Station_id)) """
-
-result = mycursor.execute(mySql_Create_station_tbl)
-mydb.commit
-print("The Station Table created successfully ")
-
+![image](https://user-images.githubusercontent.com/17750481/111904350-94502400-8a57-11eb-9c23-160647db8e3c.png)
 
 
 # Output
