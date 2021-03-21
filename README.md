@@ -9,12 +9,11 @@ Create a fisherman-boat management using MySQL and Python
 * Boat CSV prepared in excel 
 https://github.com/lakesidetech/fishermenDB_problem/blob/main/boat_csv.JPG
 * Boat Owner csv
-
+https://github.com/lakesidetech/fishermenDB_problem/blob/main/owner_info.JPG
 * Fishermen csv
-
+https://github.com/lakesidetech/fishermenDB_problem/blob/main/fishermen_info.JPG
 * Station csv
-
-
+https://github.com/lakesidetech/fishermenDB_problem/blob/main/station.JPG
 
 # import python modules
 * pip install mysql-connector-python==8.0.17
