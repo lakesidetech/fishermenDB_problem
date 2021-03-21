@@ -6,6 +6,7 @@ Create a fisherman-boat management using MySQL and Python
 * MySQL WorkBench 8.0 CE
 * CSV files - you can create in MS excel or notepad
 # prepare and identify the data that you want to import
+* Example click the link to see the format in Excel
 * Boat CSV prepared in excel 
 https://github.com/lakesidetech/fishermenDB_problem/blob/main/boat_csv.JPG
 * Boat Owner csv
